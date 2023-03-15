@@ -1,0 +1,8 @@
+{"providers": "sync", "urls": "https://www.sync.com/pricing-individual/", "block_tag": "div", "block_tag_class": ["col-lg-4"], "get_app_url": "https://www.getapp.com/operations-management-software/a/sync/reviews/"}
+{"providers": "sync", "urls": "https://www.sync.com/pricing/", "block_tag": "div", "block_tag_class": ["col-lg-4"], "get_app_url": "https://www.getapp.com/operations-management-software/a/sync/reviews/"}
+{"providers": "icedrive", "urls": "https://icedrive.net/plans", "block_tag": "div", "block_tag_class": ["plan-box no-monthly"], "get_app_url": ""}
+{"providers": "icedrive", "urls": "https://icedrive.net/plans", "block_tag": "div", "block_tag_class": ["plan-box"], "get_app_url": ""}
+{"providers": "polarbackup", "urls": "https://www.polarbackup.com/business/", "block_tag": "div", "block_tag_class": ["vc_column-inner vc_custom_1653311721927", "vc_column-inner vc_custom_1653311733995", "vc_column-inner vc_custom_1653311741647"], "get_app_url": ""}
+{"providers": "zoolz", "urls": "https://www.zoolz.com/cloud/pricing/", "block_tag": "div", "block_tag_class": ["wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-4 vc_col-xs-12"], "get_app_url": ""}
+{"providers": "idrive", "urls": "https://www.idrive.com/pricing", "block_tag": "div", "block_tag_class": ["prc_head_title"], "get_app_url": "https://www.getapp.com/security-software/a/idrive/reviews/"}
+{"providers": "opendrive", "urls": "https://www.opendrive.com/pricing", "block_tag": "div", "block_tag_class": ["span4 green-plan-container free-plan"], "get_app_url": ""}
