@@ -1,0 +1,14 @@
+kịch bản thử nghiệm
+1. cả 2 option 1,2, chỉ bấm enter để bỏ qua câu hỏi cấu hình, không có tùy chọn nào đặc biệt 
+
+2. option:1   với các điều kiện: people:1 ,Price <= 10$ , Minspace: 50gb, 
+
+3. option:1   với các điều kiện: people: 10, Price <= 50$, minspace: 500gb
+
+4. option:1   với các điều kiện: people: 10, Price <=100$, minspace: 500gb, tùy chọn  đặc biệt: Advanced sharing
+
+5. option:2   với các điều kiện: Price: 10$, capacity 10gb, cpuCore: 1, ram:1GB, BandWith: 1000Gb
+
+6. option:2   với các điều kiện: Price: 20$, capacity: 40Gb, cpuCore: 2, ram:2Gb, BandWith: 2000Gb
+
+7. option:2   với các điều kiện: Price: 30$, capacity: 40Gb, cpuCore: 4, ram:4Gb, BandWith: 2000Gb, tùy chọn  đặc biệt: 30 Weekly Backups
