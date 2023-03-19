@@ -1,0 +1,31 @@
+ProviderID,PType,ProviderName,NumberOfOption,GetAppPoint,URL,price (/mo),storage (GB),saving (in %),certificate,support,website,bandwidth,backup,database,ram,email,cores,GPU type,GPU size
+1,drive,sync,3,4.9,https://www.sync.com/pricing-individual/,0,5.0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+2,drive,sync,3,4.9,https://www.sync.com/pricing-individual/,8,2048.0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+3,drive,sync,3,4.9,https://www.sync.com/pricing-individual/,20,6144.0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+4,drive,sync,3,4.9,https://www.sync.com/pricing/,6,1024.0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+5,drive,sync,3,4.9,https://www.sync.com/pricing/,15,NULL,NULL,NULL,Phone support,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+6,drive,sync,3,4.9,https://www.sync.com/pricing/,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+7,drive,icedrive,1,0,https://icedrive.net/plans,1.67,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+8,drive,icedrive,3,0,https://icedrive.net/plans,1.67,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+9,drive,icedrive,3,0,https://icedrive.net/plans,4.17,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+10,drive,icedrive,3,0,https://icedrive.net/plans,15.00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+11,drive,polarbackup,3,0,https://www.polarbackup.com/business/,8.99,NULL,NULL,NULL,24-hour email support,NULL,NULL,NULL,NULL,NULL,24,NULL,,NULL
+12,drive,polarbackup,3,0,https://www.polarbackup.com/business/,17.99,NULL,NULL,NULL,24-hour email support,NULL,NULL,NULL,NULL,NULL,24,NULL,,NULL
+13,drive,polarbackup,3,0,https://www.polarbackup.com/business/,44.99,NULL,NULL,NULL,24-hour email support,NULL,NULL,NULL,NULL,NULL,24,NULL,,NULL
+14,drive,zoolz,11,0,https://www.zoolz.com/cloud/pricing/,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+15,drive,zoolz,11,0,https://www.zoolz.com/cloud/pricing/,199.99,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+16,drive,zoolz,11,0,https://www.zoolz.com/cloud/pricing/,399.99,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+17,drive,zoolz,11,0,https://www.zoolz.com/cloud/pricing/,999.99,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+18,drive,zoolz,11,0,https://www.zoolz.com/cloud/pricing/,1999.99,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+19,drive,zoolz,11,0,https://www.zoolz.com/cloud/pricing/,3599.99,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+20,drive,zoolz,11,0,https://www.zoolz.com/cloud/pricing/,8999.99,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+21,drive,zoolz,11,0,https://www.zoolz.com/cloud/pricing/,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+22,drive,zoolz,11,0,https://www.zoolz.com/cloud/pricing/,199.99,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+23,drive,zoolz,11,0,https://www.zoolz.com/cloud/pricing/,399.99,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+24,drive,zoolz,11,0,https://www.zoolz.com/cloud/pricing/,999.99,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+25,drive,idrive,5,4.6,https://www.idrive.com/pricing,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+26,drive,idrive,5,4.6,https://www.idrive.com/pricing,2.95,100.0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+27,drive,idrive,5,4.6,https://www.idrive.com/pricing,79.50,5120.0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+28,drive,idrive,5,4.6,https://www.idrive.com/pricing,99.50,5120.0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+29,drive,idrive,5,4.6,https://www.idrive.com/pricing,99.50,unlimited,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+30,drive,opendrive,1,0,https://www.opendrive.com/pricing,NULL,5.0,NULL,NULL,NULL,NULL,5.0,"5 GB Storage, 100 MB Max File Size, 1 GB/Day Bandwidth, 200 KB/s Speed, Auto Syncing and Backup, Online Tools",NULL,NULL,NULL,NULL,,NULL

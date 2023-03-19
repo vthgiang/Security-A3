@@ -1,0 +1,53 @@
+ProviderID,PType,ProviderName,NumberOfOption,GetAppPoint,URL,price (/mo),storage (GB),saving (in %),certificate,support,website,bandwidth,backup,database,ram,email,cores,GPU type,GPU size
+1,host,bluehost,3,4.1,https://www.bluehost.com/hosting/vps,19.99,30.0,50,NULL,NULL,NULL,1024.0,NULL,NULL,2.0,NULL,2,,NULL
+2,host,bluehost,3,4.1,https://www.bluehost.com/hosting/vps,29.99,60.0,50,NULL,NULL,NULL,2048.0,NULL,NULL,4.0,NULL,2,,NULL
+3,host,bluehost,3,4.1,https://www.bluehost.com/hosting/vps,59.99,120.0,50,NULL,NULL,NULL,3072.0,NULL,NULL,8.0,NULL,4,,NULL
+4,host,hostgator,1,3.9,https://www.hostgator.com/vps-hosting,NULL,4.0,NULL,NULL,NULL,NULL,4.0,NULL,NULL,4.0,NULL,4000,,NULL
+5,host,hostinger,8,4.6,https://www.hostinger.com/vps-hosting,NULL,1.0,56,NULL,NULL,NULL,1.0,1 GB RAM  20 GB SSD Disk space  1 TB Bandwidth  1 Snapshot  Weekly Backups  Dedicated IP Address  Full Root Access,NULL,1.0,NULL,NULL,,NULL
+6,host,hostinger,8,4.6,https://www.hostinger.com/vps-hosting,NULL,2.0,54,NULL,NULL,NULL,2.0,2 GB RAM  40 GB SSD Disk space  2 TB Bandwidth  1 Snapshot  Weekly Backups  Dedicated IP Address  Full Root Access,NULL,2.0,NULL,NULL,,NULL
+7,host,hostinger,8,4.6,https://www.hostinger.com/vps-hosting,NULL,3.0,60,NULL,NULL,NULL,3.0,3 GB RAM  60 GB SSD Disk space  3 TB Bandwidth  1 Snapshot  Weekly Backups  Dedicated IP Address  Full Root Access,NULL,3.0,NULL,NULL,,NULL
+8,host,hostinger,8,4.6,https://www.hostinger.com/vps-hosting,NULL,4.0,63,NULL,NULL,NULL,4.0,4 GB RAM  80 GB SSD Disk space  4 TB Bandwidth  1 Snapshot  Weekly Backups  Dedicated IP Address  Full Root Access,NULL,4.0,NULL,NULL,,NULL
+9,host,hostinger,8,4.6,https://www.hostinger.com/vps-hosting,NULL,6.0,70,NULL,NULL,NULL,6.0,6 GB RAM  120 GB SSD Disk space  6 TB Bandwidth  1 Snapshot  Weekly Backups  Dedicated IP Address  Full Root Access,NULL,6.0,NULL,NULL,,NULL
+10,host,hostinger,8,4.6,https://www.hostinger.com/vps-hosting,NULL,8.0,65,NULL,NULL,NULL,8.0,8 GB RAM  160 GB SSD Disk space  8 TB Bandwidth  1 Snapshot  Weekly Backups  Dedicated IP Address  Full Root Access,NULL,8.0,NULL,NULL,,NULL
+11,host,hostinger,8,4.6,https://www.hostinger.com/vps-hosting,NULL,12.0,65,NULL,NULL,NULL,12.0,12 GB RAM  200 GB SSD Disk space  10 TB Bandwidth  1 Snapshot  Weekly Backups  Dedicated IP Address  Full Root Access,NULL,12.0,NULL,NULL,,NULL
+12,host,hostinger,8,4.6,https://www.hostinger.com/vps-hosting,NULL,16.0,65,NULL,NULL,NULL,16.0,16 GB RAM  250 GB SSD Disk space  12 TB Bandwidth  1 Snapshot  Weekly Backups  Dedicated IP Address  Full Root Access,NULL,16.0,NULL,NULL,,NULL
+13,host,godaddy,10,4.2,https://www.godaddy.com/en-uk/hosting/vps-hosting,NULL,20.0,42,NULL,NULL,NULL,NULL,Snapshot backups﻿,NULL,1.0,NULL,1,,NULL
+14,host,godaddy,10,4.2,https://www.godaddy.com/en-uk/hosting/vps-hosting,NULL,100.0,33,NULL,NULL,NULL,NULL,Snapshot backups﻿,NULL,4.0,NULL,2,,NULL
+15,host,godaddy,10,4.2,https://www.godaddy.com/en-uk/hosting/vps-hosting,NULL,200.0,32,NULL,NULL,NULL,NULL,Snapshot backups﻿,NULL,8.0,NULL,4,,NULL
+16,host,godaddy,10,4.2,https://www.godaddy.com/en-uk/hosting/vps-hosting,NULL,400.0,33,NULL,NULL,NULL,NULL,Snapshot backups﻿,NULL,16.0,NULL,8,,NULL
+17,host,godaddy,10,4.2,https://www.godaddy.com/en-uk/hosting/vps-hosting,NULL,40.0,30,NULL,NULL,NULL,NULL,Snapshot backups﻿,NULL,2.0,NULL,1,,NULL
+18,host,godaddy,10,4.2,https://www.godaddy.com/en-uk/hosting/vps-hosting,NULL,100.0,32,NULL,NULL,NULL,NULL,Snapshot backups﻿,NULL,8.0,NULL,2,,NULL
+19,host,godaddy,10,4.2,https://www.godaddy.com/en-uk/hosting/vps-hosting,NULL,200.0,33,NULL,NULL,NULL,NULL,Snapshot backups﻿,NULL,16.0,NULL,4,,NULL
+20,host,godaddy,10,4.2,https://www.godaddy.com/en-uk/hosting/vps-hosting,NULL,400.0,34,NULL,NULL,NULL,NULL,Snapshot backups﻿,NULL,32.0,NULL,8,,NULL
+21,host,godaddy,10,4.2,https://www.godaddy.com/en-uk/hosting/vps-hosting,NULL,NULL,42,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+22,host,godaddy,10,4.2,https://www.godaddy.com/en-uk/hosting/vps-hosting,NULL,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+23,host,a2hosting,6,4.1,https://www.a2hosting.com/vps-hosting,76.99,150.0,NULL,Free SSL Certificate,"24/7 Phone, Live Chat & Email Support",NULL,NULL,NULL,NULL,4.0,24,2,,NULL
+24,host,a2hosting,6,4.1,https://www.a2hosting.com/vps-hosting,69.99,250.0,NULL,Free SSL Certificate,"24/7 Phone, Live Chat & Email Support",NULL,NULL,NULL,NULL,8.0,24,6,,NULL
+25,host,a2hosting,6,4.1,https://www.a2hosting.com/vps-hosting,67.99,450.0,NULL,Free SSL Certificate,"24/7 Phone, Live Chat & Email Support",NULL,NULL,NULL,NULL,16.0,24,8,,NULL
+26,host,a2hosting,6,4.1,https://www.a2hosting.com/vps-hosting,59.99,150.0,NULL,NULL,"24/7 Phone, Live Chat & Email Support",NULL,NULL,NULL,NULL,8.0,24,2,,NULL
+27,host,a2hosting,6,4.1,https://www.a2hosting.com/vps-hosting,189.99,250.0,NULL,NULL,"24/7 Phone, Live Chat & Email Support",NULL,NULL,NULL,NULL,16.0,24,6,,NULL
+28,host,a2hosting,6,4.1,https://www.a2hosting.com/vps-hosting,99.99,450.0,NULL,NULL,"24/7 Phone, Live Chat & Email Support",NULL,NULL,NULL,NULL,32.0,24,8,,NULL
+29,host,dedicatedcore,8,0,https://www.dedicatedcore.com/best-vps-hosting-server/,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+30,host,dedicatedcore,8,0,https://www.dedicatedcore.com/best-vps-hosting-server/,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+31,host,dedicatedcore,8,0,https://www.dedicatedcore.com/best-vps-hosting-server/,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+32,host,dedicatedcore,8,0,https://www.dedicatedcore.com/best-vps-hosting-server/,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+33,host,dedicatedcore,8,0,https://www.dedicatedcore.com/best-vps-hosting-server/,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+34,host,dedicatedcore,8,0,https://www.dedicatedcore.com/best-vps-hosting-server/,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+35,host,dedicatedcore,8,0,https://www.dedicatedcore.com/best-vps-hosting-server/,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+36,host,dedicatedcore,8,0,https://www.dedicatedcore.com/best-vps-hosting-server/,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+37,host,domainracer,1,0,https://www.domainracer.com/vps-hosting.php,16.52,40.0,NULL,NULL,NULL,NULL,4096.0,NULL,NULL,NULL,NULL,2,,NULL
+38,host,domainracer,2,0,https://www.domainracer.com/vps-hosting.php,10.28,20.0,NULL,NULL,NULL,NULL,2048.0,NULL,NULL,NULL,NULL,1,,NULL
+39,host,domainracer,2,0,https://www.domainracer.com/vps-hosting.php,31.99,80.0,NULL,NULL,NULL,NULL,8192.0,NULL,NULL,NULL,NULL,3,,NULL
+40,host,ionos,13,0,https://www.ionos.com/servers/vps,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,,NULL
+41,host,ionos,13,0,https://www.ionos.com/servers/vps,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2,,NULL
+42,host,ionos,13,0,https://www.ionos.com/servers/vps,120,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2,,NULL
+43,host,ionos,13,0,https://www.ionos.com/servers/vps,138,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4,,NULL
+44,host,ionos,13,0,https://www.ionos.com/servers/vps,240,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,6,,NULL
+45,host,ionos,13,0,https://www.ionos.com/servers/vps,8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2,,NULL
+46,host,ionos,13,0,https://www.ionos.com/servers/vps,12,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4,,NULL
+47,host,ionos,13,0,https://www.ionos.com/servers/vps,160,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,6,,NULL
+48,host,ionos,13,0,https://www.ionos.com/servers/vps,24,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,8,,NULL
+49,host,ionos,13,0,https://www.ionos.com/servers/vps,80,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+50,host,ionos,13,0,https://www.ionos.com/servers/vps,10,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4,,NULL
+51,host,ionos,13,0,https://www.ionos.com/servers/vps,138,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+52,host,ionos,13,0,https://www.ionos.com/servers/vps,20,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
